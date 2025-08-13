@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">🛠️ Data Smith — forging data with AI</h1>
 
-<!--
-**siujeff/siujeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/forge_400.png" width="128" alt="AI Blacksmith avatar">
+</p>
 
-Here are some ideas to get you started:
+Hi, This is <b>J</b>. I build tools with AI that turn raw data into model to unlock its potential.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Recent: <a href="https://github.com/siujeff/data-visualizer">Data Visualizer</a> — load, clean, explore, and chart public datasets (Colab-first).
+- 🧰 Stack: Python • Data Science • Notebooks • SQL • Machine Learning • LLMs (Gemini) • Computer Forensic
+- 🛠️ Hobby: Game Modding • Model Making • Build Automation
+- 📫 Contact: siujeff [at] outlook [dot] com
+
+<p align="center">
+  <a href="https://github.com/<you>?tab=repositories&q=&type=&language=&sort=stargazers">Projects</a> •
+  <a href="https://www.linkedin.com/in/jeff-siu-052b6973">LinkedIn</a>
+</p>
